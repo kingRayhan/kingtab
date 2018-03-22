@@ -3,7 +3,7 @@ const Panels = [...document.querySelector('.panels').children];
 
 
 Tabs[0].classList.add('active');
-Panels[0].classList.add('active');
+Panels[0].classList.add('active in');
 
 Tabs.forEach( tab => {
 	tab.addEventListener( 'click' , function(event){
