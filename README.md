@@ -4,3 +4,18 @@
 </div>
 
 [Live Preview](https://kingrayhan.github.io/kingtab/)
+
+## Markup and setup
+
+Hassle free simple markup
+
+```html
+<div class="tabs">
+    <button>Tab1</button>
+    <button>Tab2</button>
+</div>
+<div class="panels">
+    <div> Tab content 1 </div>
+    <div> Tab content 2 </div>
+</div>
+```
