@@ -31,6 +31,15 @@ Tabs.forEach( tab => {
 			}else{
 				panel.classList.remove('active')
 			}
+
+			setTimeout(function() {
+				if( Panels.indexOf(panel) ==  CurrentIndex)
+				{
+					panel.classList.add('in')
+				}else{
+					panel.classList.remove('in')
+				}
+			}, 200);
 		} );
 
 	} )
