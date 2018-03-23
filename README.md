@@ -3,9 +3,9 @@
      <p>Design credit ❤️ <a href="https://github.com/themeshef">ThemeShef<a/></p>
 </div>
 
-[Live Preview](https://kingrayhan.github.io/kingtab/)
+<a target="_blank" href="https://kingrayhan.github.io/kingtab/">Live Preview</a>
 
-## Markup and setup
+## Markup
 
 Hassle free simple markup
 
