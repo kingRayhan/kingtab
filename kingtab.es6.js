@@ -1,5 +1,8 @@
-// Copyright @KingRayhan
-// Repositiry -> https://github.com/kingRayhan/kingtab
+/**
+ * KingTab v1.0.0
+ * Copyrigh @ KingRayhan
+ * https://github.com/kingRayhan/kingtab
+ */
 
 const Tabs = [...document.querySelector('.tabs').children];
 const Panels = [...document.querySelector('.panels').children];
